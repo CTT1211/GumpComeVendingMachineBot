@@ -1,0 +1,13 @@
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\CognitiveServicesAI\bin\Debug\CognitiveServicesAI.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\CognitiveServicesAI\bin\Debug\CognitiveServicesAI.pdb
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\CognitiveServicesAI\obj\Debug\CognitiveServicesAI.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\CognitiveServicesAI\obj\Debug\CognitiveServicesAI.pdb
+D:\SourceCodeTFS\WeChatWithBotClassic\BotFramework\CognitiveServicesAI\bin\Debug\CognitiveServicesAI.dll
+D:\SourceCodeTFS\WeChatWithBotClassic\BotFramework\CognitiveServicesAI\bin\Debug\CognitiveServicesAI.pdb
+D:\SourceCodeTFS\WeChatWithBotClassic\BotFramework\CognitiveServicesAI\obj\Debug\CognitiveServicesAI.dll
+D:\SourceCodeTFS\WeChatWithBotClassic\BotFramework\CognitiveServicesAI\obj\Debug\CognitiveServicesAI.pdb
+C:\Windows10_Dev\ConversationAsPlatform\Bots\STIC\BotFramework\BotFramework\CognitiveServicesAI\bin\Debug\CognitiveServicesAI.dll
+C:\Windows10_Dev\ConversationAsPlatform\Bots\STIC\BotFramework\BotFramework\CognitiveServicesAI\bin\Debug\CognitiveServicesAI.pdb
+C:\Windows10_Dev\ConversationAsPlatform\Bots\STIC\BotFramework\BotFramework\CognitiveServicesAI\obj\Debug\CognitiveServicesAI.csprojResolveAssemblyReference.cache
+C:\Windows10_Dev\ConversationAsPlatform\Bots\STIC\BotFramework\BotFramework\CognitiveServicesAI\obj\Debug\CognitiveServicesAI.dll
+C:\Windows10_Dev\ConversationAsPlatform\Bots\STIC\BotFramework\BotFramework\CognitiveServicesAI\obj\Debug\CognitiveServicesAI.pdb

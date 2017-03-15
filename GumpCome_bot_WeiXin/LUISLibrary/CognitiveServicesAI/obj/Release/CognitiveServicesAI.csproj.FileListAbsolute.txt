@@ -1,0 +1,5 @@
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\CognitiveServicesAI\bin\Release\CognitiveServicesAI.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\CognitiveServicesAI\bin\Release\CognitiveServicesAI.pdb
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\CognitiveServicesAI\obj\Release\CognitiveServicesAI.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\CognitiveServicesAI\obj\Release\CognitiveServicesAI.pdb
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\CognitiveServicesAI\obj\Release\CognitiveServicesAI.csprojResolveAssemblyReference.cache

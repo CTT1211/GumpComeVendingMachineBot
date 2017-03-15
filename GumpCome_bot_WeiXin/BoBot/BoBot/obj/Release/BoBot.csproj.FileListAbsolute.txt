@@ -1,0 +1,78 @@
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\Bot Application1.dll.config
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\Bot Application1.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\Bot Application1.pdb
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\Autofac.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\Chronic.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\Microsoft.Bot.Builder.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\Microsoft.Bot.Connector.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\Newtonsoft.Json.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\System.Net.Http.Formatting.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\System.Web.Http.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\System.Web.Http.WebHost.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\Autofac.xml
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\Microsoft.Bot.Builder.xml
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\Microsoft.Bot.Connector.xml
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\Microsoft.Rest.ClientRuntime.xml
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\Newtonsoft.Json.xml
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\System.Net.Http.Formatting.xml
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\System.Web.Http.xml
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\System.Web.Http.WebHost.xml
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\obj\Release\Bot Application1.dll
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\obj\Release\Bot Application1.pdb
+D:\SourceCodeTFS\BotFramework\BoBot\BoBot\obj\Release\BoBot.csprojResolveAssemblyReference.cache
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\Bot Application1.dll.config
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\Bot Application1.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\Bot Application1.pdb
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\Autofac.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\Chronic.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\Microsoft.Bot.Builder.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\Microsoft.Bot.Connector.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\Newtonsoft.Json.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\System.Net.Http.Formatting.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\System.Web.Http.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\System.Web.Http.WebHost.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\Autofac.xml
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\Microsoft.Bot.Builder.xml
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\Microsoft.Bot.Connector.xml
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\Microsoft.Rest.ClientRuntime.xml
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\Newtonsoft.Json.xml
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\System.Net.Http.Formatting.xml
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\System.Web.Http.xml
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\System.Web.Http.WebHost.xml
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\obj\Release\BoBot.csprojResolveAssemblyReference.cache
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\obj\Release\Bot Application1.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\BoBot\BoBot\obj\Release\Bot Application1.pdb

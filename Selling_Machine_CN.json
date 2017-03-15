@@ -1,0 +1,676 @@
+{
+  "luis_schema_version": "1.3.1",
+  "versionId": "0.1",
+  "name": "Selling_Machine_CN",
+  "desc": "自动贩售机中文LUIS服务 by Yuheng",
+  "culture": "zh-cn",
+  "intents": [
+    {
+      "name": "None"
+    },
+    {
+      "name": "感谢"
+    },
+    {
+      "name": "打招呼"
+    },
+    {
+      "name": "整体状态"
+    },
+    {
+      "name": "有无货物"
+    },
+    {
+      "name": "查询生产日期"
+    },
+    {
+      "name": "申请维修"
+    },
+    {
+      "name": "目前温度模式"
+    },
+    {
+      "name": "补货请求"
+    },
+    {
+      "name": "货道商品的名称"
+    },
+    {
+      "name": "货道状态"
+    },
+    {
+      "name": "贩卖机状态"
+    },
+    {
+      "name": "贩卖机的温度"
+    },
+    {
+      "name": "贩售机位置"
+    },
+    {
+      "name": "贩售机广告设置"
+    },
+    {
+      "name": "验证码"
+    }
+  ],
+  "entities": [
+    {
+      "name": "地名"
+    },
+    {
+      "name": "货道编号"
+    },
+    {
+      "name": "贩售机编号"
+    }
+  ],
+  "composites": [],
+  "closedLists": [],
+  "bing_entities": [],
+  "actions": [],
+  "model_features": [],
+  "regex_features": [],
+  "utterances": [
+    {
+      "text": "DD12369",
+      "intent": "验证码",
+      "entities": []
+    },
+    {
+      "text": "vm12369",
+      "intent": "验证码",
+      "entities": []
+    },
+    {
+      "text": "1123贩卖机的位置",
+      "intent": "贩售机位置",
+      "entities": []
+    },
+    {
+      "text": "5324号贩卖机的状态",
+      "intent": "贩卖机状态",
+      "entities": []
+    },
+    {
+      "text": "23232贩卖机在什么地方",
+      "intent": "贩售机位置",
+      "entities": []
+    },
+    {
+      "text": "请告诉我423号贩卖机的位置",
+      "intent": "贩售机位置",
+      "entities": []
+    },
+    {
+      "text": "请安排马上补货",
+      "intent": "补货请求",
+      "entities": []
+    },
+    {
+      "text": "324贩卖机在哪",
+      "intent": "贩售机位置",
+      "entities": []
+    },
+    {
+      "text": "哪一个贩卖机需要补货了",
+      "intent": "贩卖机状态",
+      "entities": []
+    },
+    {
+      "text": "您好",
+      "intent": "打招呼",
+      "entities": []
+    },
+    {
+      "text": "请帮忙查看65787号贩卖机的状态",
+      "intent": "贩卖机状态",
+      "entities": []
+    },
+    {
+      "text": "请告诉我332432号贩卖机的位置",
+      "intent": "贩售机位置",
+      "entities": []
+    },
+    {
+      "text": "请帮忙补货",
+      "intent": "补货请求",
+      "entities": []
+    },
+    {
+      "text": "请告诉我53264贩卖机的位置",
+      "intent": "贩售机位置",
+      "entities": []
+    },
+    {
+      "text": "请告诉我1234号贩卖机的位置",
+      "intent": "贩售机位置",
+      "entities": []
+    },
+    {
+      "text": "请告诉我67贩卖机的位置",
+      "intent": "贩售机位置",
+      "entities": []
+    },
+    {
+      "text": "请告诉我432号贩卖机的位置",
+      "intent": "贩售机位置",
+      "entities": []
+    },
+    {
+      "text": "admin12369",
+      "intent": "验证码",
+      "entities": []
+    },
+    {
+      "text": "请告诉我1234贩卖机的位置",
+      "intent": "贩售机位置",
+      "entities": []
+    },
+    {
+      "text": "请帮忙查看432号贩卖机的状态",
+      "intent": "贩卖机状态",
+      "entities": []
+    },
+    {
+      "text": "456789",
+      "intent": "验证码",
+      "entities": []
+    },
+    {
+      "text": "12369",
+      "intent": "验证码",
+      "entities": []
+    },
+    {
+      "text": "请帮忙查看98976号贩卖机的状态",
+      "intent": "贩卖机状态",
+      "entities": []
+    },
+    {
+      "text": "请帮忙查看1235号贩卖机的状态",
+      "intent": "贩卖机状态",
+      "entities": []
+    },
+    {
+      "text": "谢谢",
+      "intent": "感谢",
+      "entities": []
+    },
+    {
+      "text": "请问目前0127号贩卖机是否有货",
+      "intent": "有无货物",
+      "entities": []
+    },
+    {
+      "text": "目前0127号贩卖机的状态？",
+      "intent": "贩卖机状态",
+      "entities": []
+    },
+    {
+      "text": "目前0127号贩卖机1号货道是什么商品",
+      "intent": "货道商品的名称",
+      "entities": [
+        {
+          "entity": "货道编号",
+          "startPos": 7,
+          "endPos": 7
+        }
+      ]
+    },
+    {
+      "text": "目前0127号贩卖机温度是否正常",
+      "intent": "贩卖机的温度",
+      "entities": []
+    },
+    {
+      "text": "目前0127号贩卖机是制冷还是加热呢",
+      "intent": "目前温度模式",
+      "entities": []
+    },
+    {
+      "text": "目前 0127 号贩卖机10号货道是什么商品",
+      "intent": "货道商品的名称",
+      "entities": [
+        {
+          "entity": "货道编号",
+          "startPos": 7,
+          "endPos": 7
+        }
+      ]
+    },
+    {
+      "text": "目前0127号贩卖机3号货道是否有货？",
+      "intent": "货道状态",
+      "entities": [
+        {
+          "entity": "货道编号",
+          "startPos": 7,
+          "endPos": 7
+        }
+      ]
+    },
+    {
+      "text": "目前0127号贩卖机的状态",
+      "intent": "贩卖机状态",
+      "entities": []
+    },
+    {
+      "text": "0127号贩卖机温度状态",
+      "intent": "贩卖机的温度",
+      "entities": []
+    },
+    {
+      "text": "目前0127号贩卖机温度模式",
+      "intent": "目前温度模式",
+      "entities": []
+    },
+    {
+      "text": "请帮我显示0127号贩卖机的整体状态",
+      "intent": "整体状态",
+      "entities": []
+    },
+    {
+      "text": "贩卖机的状态",
+      "intent": "贩卖机状态",
+      "entities": []
+    },
+    {
+      "text": "目前贩卖机的状态",
+      "intent": "贩卖机状态",
+      "entities": []
+    },
+    {
+      "text": "3号货道是否有货 ？",
+      "intent": "货道状态",
+      "entities": [
+        {
+          "entity": "货道编号",
+          "startPos": 0,
+          "endPos": 0
+        }
+      ]
+    },
+    {
+      "text": "13号货道是否有货 ？",
+      "intent": "货道状态",
+      "entities": [
+        {
+          "entity": "货道编号",
+          "startPos": 0,
+          "endPos": 0
+        }
+      ]
+    },
+    {
+      "text": "143号货道是否有货 ？",
+      "intent": "货道状态",
+      "entities": [
+        {
+          "entity": "货道编号",
+          "startPos": 0,
+          "endPos": 0
+        }
+      ]
+    },
+    {
+      "text": "目前贩卖机哪个货道缺货",
+      "intent": "有无货物",
+      "entities": []
+    },
+    {
+      "text": "哪个货道缺货",
+      "intent": "有无货物",
+      "entities": []
+    },
+    {
+      "text": "请显示0127号贩卖机的状态图",
+      "intent": "整体状态",
+      "entities": []
+    },
+    {
+      "text": "2号贩卖机位置",
+      "intent": "贩售机位置",
+      "entities": []
+    },
+    {
+      "text": "0127号贩卖机13号货道的状态",
+      "intent": "货道状态",
+      "entities": [
+        {
+          "entity": "货道编号",
+          "startPos": 5,
+          "endPos": 5
+        }
+      ]
+    },
+    {
+      "text": "贩卖机是否缺货",
+      "intent": "有无货物",
+      "entities": []
+    },
+    {
+      "text": "我该上可乐了吧",
+      "intent": "有无货物",
+      "entities": []
+    },
+    {
+      "text": "贩卖机是否该补货了？",
+      "intent": "有无货物",
+      "entities": []
+    },
+    {
+      "text": "在12号贩售机上添加广告",
+      "intent": "贩售机广告设置",
+      "entities": [
+        {
+          "entity": "贩售机编号",
+          "startPos": 1,
+          "endPos": 1
+        }
+      ]
+    },
+    {
+      "text": "贩卖机是否该上货了",
+      "intent": "有无货物",
+      "entities": []
+    },
+    {
+      "text": "贩卖机没货了吧",
+      "intent": "有无货物",
+      "entities": []
+    },
+    {
+      "text": "洪荒之力",
+      "intent": "感谢",
+      "entities": []
+    },
+    {
+      "text": "贩卖机PowerBi图",
+      "intent": "整体状态",
+      "entities": []
+    },
+    {
+      "text": "贩卖机是不是该上货啦",
+      "intent": "有无货物",
+      "entities": []
+    },
+    {
+      "text": "是否需要补货？",
+      "intent": "有无货物",
+      "entities": []
+    },
+    {
+      "text": "贩卖机需要补货吗？",
+      "intent": "有无货物",
+      "entities": []
+    },
+    {
+      "text": "贩卖机是不是歇菜",
+      "intent": "贩卖机状态",
+      "entities": []
+    },
+    {
+      "text": "贩卖机是否还有可乐",
+      "intent": "有无货物",
+      "entities": []
+    },
+    {
+      "text": "贩卖机是不是完蛋了",
+      "intent": "贩卖机状态",
+      "entities": []
+    },
+    {
+      "text": "贩卖机还能用吗？",
+      "intent": "贩卖机状态",
+      "entities": []
+    },
+    {
+      "text": "贩卖机是不是还活着",
+      "intent": "贩卖机状态",
+      "entities": []
+    },
+    {
+      "text": "贩卖机是否完蛋了",
+      "intent": "贩卖机状态",
+      "entities": []
+    },
+    {
+      "text": "给贩卖机吃饭",
+      "intent": "有无货物",
+      "entities": []
+    },
+    {
+      "text": "贩卖机生产日期是哪天",
+      "intent": "查询生产日期",
+      "entities": []
+    },
+    {
+      "text": "生产日期是哪天",
+      "intent": "查询生产日期",
+      "entities": []
+    },
+    {
+      "text": "是否缺货",
+      "intent": "货道状态",
+      "entities": []
+    },
+    {
+      "text": "贩卖机货到的状态",
+      "intent": "货道状态",
+      "entities": []
+    },
+    {
+      "text": "贩卖机13号货到卖什么",
+      "intent": "货道商品的名称",
+      "entities": [
+        {
+          "entity": "货道编号",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "机器是不是坏了",
+      "intent": "贩卖机状态",
+      "entities": []
+    },
+    {
+      "text": "贩卖机坏了，请安排维修",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "贩卖机不工作了，请安排维修",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "请帮我安排维修",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "贩卖机坏了请维修",
+      "intent": "申请维修",
+      "entities": []
+    },
+    {
+      "text": "贩卖机不工作了，赶紧维修",
+      "intent": "申请维修",
+      "entities": []
+    },
+    {
+      "text": "机器坏了，请帮忙修理",
+      "intent": "申请维修",
+      "entities": []
+    },
+    {
+      "text": "机器坏了，不行卖了吧",
+      "intent": "申请维修",
+      "entities": []
+    },
+    {
+      "text": "贩卖机是不是歇菜了",
+      "intent": "贩卖机状态",
+      "entities": []
+    },
+    {
+      "text": "上海贩卖机工作状态",
+      "intent": "贩卖机状态",
+      "entities": []
+    },
+    {
+      "text": "贩卖机温度模式",
+      "intent": "目前温度模式",
+      "entities": []
+    },
+    {
+      "text": "是否正常工作",
+      "intent": "贩卖机状态",
+      "entities": []
+    },
+    {
+      "text": "机器在哪呀",
+      "intent": "贩售机位置",
+      "entities": []
+    },
+    {
+      "text": "给我看看整体状态图",
+      "intent": "整体状态",
+      "entities": []
+    },
+    {
+      "text": "贩卖机自杀吧",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "贩卖机请毁灭吧",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "明天下雨吗？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "会下雨吗",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "帮我订机票",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "今天天气如何",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "今天北京天气如何",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "今天北京天气怎样？",
+      "intent": "None",
+      "entities": [
+        {
+          "entity": "地名",
+          "startPos": 2,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "今天北京会下雨吗",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "今天北京下雨吗",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "今天北京会刮风吗",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "北京今天天气如何",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "北京明天下雪吗",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "北京明天下雨吗",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "北京明天天气如何",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "北京明天是否下雨",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "北京空气质量如何",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "北京是否污染",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "北京天气如何",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "北京天气怎样",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "北京明天是否下雪",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "北京明天是否刮风",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "请帮我催款",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "你还没还钱",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "贩卖机还活着吗",
+      "intent": "贩卖机状态",
+      "entities": []
+    }
+  ]
+}

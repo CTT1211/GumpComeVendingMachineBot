@@ -1,0 +1,38 @@
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\Bot Application1.dll.config
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\Bot Application1.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\Bot Application1.pdb
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\Autofac.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\Chronic.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\Microsoft.Bot.Builder.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\Microsoft.Bot.Connector.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\Newtonsoft.Json.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\System.Net.Http.Formatting.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\System.Web.Http.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\System.Web.Http.WebHost.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\Autofac.xml
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\Microsoft.Bot.Builder.xml
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\Microsoft.Bot.Connector.xml
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\Microsoft.Rest.ClientRuntime.xml
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\Newtonsoft.Json.xml
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\System.Net.Http.Formatting.xml
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\System.Web.Http.xml
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\System.Web.Http.WebHost.xml
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\obj\Debug\Bot Application1.dll
+D:\GumpComeBot\GumpComeVendingMachineBot\GumpCome_bot_WeiXin\BoBot\BoBot\obj\Debug\Bot Application1.pdb

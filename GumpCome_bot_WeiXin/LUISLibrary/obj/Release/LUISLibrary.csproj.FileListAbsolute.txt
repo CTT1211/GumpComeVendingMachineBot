@@ -1,0 +1,9 @@
+D:\SourceCodeTFS\BotFramework\LUISLibrary\bin\Release\LUISLibrary.dll
+D:\SourceCodeTFS\BotFramework\LUISLibrary\bin\Release\LUISLibrary.pdb
+D:\SourceCodeTFS\BotFramework\LUISLibrary\obj\Release\LUISLibrary.dll
+D:\SourceCodeTFS\BotFramework\LUISLibrary\obj\Release\LUISLibrary.pdb
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\LUISLibrary\bin\Release\LUISLibrary.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\LUISLibrary\bin\Release\LUISLibrary.pdb
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\LUISLibrary\obj\Release\LUISLibrary.dll
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\LUISLibrary\obj\Release\LUISLibrary.pdb
+D:\SourceCodeTFS\WeChatWithBot\WeChatWithBotClassic\BotFramework\LUISLibrary\obj\Release\LUISLibrary.csprojResolveAssemblyReference.cache
