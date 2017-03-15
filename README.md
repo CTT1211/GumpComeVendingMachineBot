@@ -4,14 +4,14 @@ GumpCome Vending Machine Admin bot partial code
 
 代码里包括几个部分
 
-##VendingMachineBotDemo 
+## VendingMachineBotDemo 
 这部分是贩卖机逻辑代码
 
-##VendingMachineBotDemo 
+## VendingMachineBotDemo 
 这部分是在web 页面里集成bot 对话框和bot连接的代码
 
-##GumpCome_bot_WeiXin
+## GumpCome_bot_WeiXin
 这部分展示了bot 如何通过bot direct line 和微信公众号后台进行连接的
 
-##Selling_Machine_CN.json 
+## Selling_Machine_CN.json 
 这个jason 文件是从LUIS里导出来的。 可以看到是如何train LUIS的，如何定义intent
